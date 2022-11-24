@@ -19,7 +19,8 @@ namespace Brainco{
         //% block="high"
         high = 65
     }
-
+    
+    /**
     * Low:Attention greater than 35,Middle:Attention greater than 50,High:Attention greater than 65.
     */
     //% block="Attention %level" blockId="GetAttentionValue"
